@@ -5,7 +5,7 @@
 ###--Created by:--(Alphabetical)    
 Adam Sykes    
 Chris Dubeau    
-Joshua Dotinga dotingaj@mymacewan.ca    
+Joshua Dotinga 
 Mitchell Koens    
 
 
